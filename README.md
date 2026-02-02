@@ -262,7 +262,7 @@ The summary of this result are order by higher salary showing the following:
 | **Oracle** | 70 | **$107,190** |
 | **Jira** | 68 | **$123,447** |
 
-*Table of the top 15 skills with its demand count an associated salary* 
+*Table of the top 15 skills with its demand count and associated salary* 
 
 # What I learned
 - **Complex Query creation:** Mastered the art of building advanced SQL queries that bridge multiple tables and utilize Common Table Expressions (CTEs) to organize complex logic into readable, temporary result sets.
